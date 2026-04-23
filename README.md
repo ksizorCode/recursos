@@ -3,13 +3,21 @@
 
 
 ## Repositorios
-
-> Github
-> Gitlab
-> Bitbucket
-> Azure DevOps
+>
+- Github
+- Gitlab
+- Bitbucket
+- Azure DevOps
 
 
 ## Despliegues
-> Vercel
-> Netlify
+>
+- Vercel
+- Netlify
+
+
+
+## Imágenes:
+>
+- picsum.photos
+- placeholdpicsum.dev
