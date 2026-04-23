@@ -18,6 +18,11 @@
 
 
 ## Imágenes:
->
+Ransom imagenes
 - picsum.photos
 - placeholdpicsum.dev
+- https://placehold.co/
+- https://placeholders.dev/
+Avatares
+- https://www.dicebear.com/
+- https://pravatar.cc/
