@@ -15,8 +15,6 @@
 - Vercel
 - Netlify
 
-
-
 ## Imágenes:
 Ransom imagenes
 - picsum.photos
@@ -27,6 +25,8 @@ Avatares
 - https://www.dicebear.com/
 - https://pravatar.cc/
 
+## Favicon / PWA 
+- https://realfavicongenerator.net/
 
 ## JSON Apis
 https://www.jsonapi.co/
