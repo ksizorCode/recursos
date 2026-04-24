@@ -26,3 +26,7 @@ Ransom imagenes
 Avatares
 - https://www.dicebear.com/
 - https://pravatar.cc/
+
+
+## JSON Apis
+https://www.jsonapi.co/
