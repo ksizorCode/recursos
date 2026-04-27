@@ -1,11 +1,7 @@
-https://drive.google.com/drive/folders/1OOwdvQA_LneY4w5WPQNXHdlKASAsTebw?usp=share_link
 
-# Recursos
-
-
+# Recursos DEV
 
 ## Repositorios
->
 - Github
 - Gitlab
 - Bitbucket
@@ -32,3 +28,8 @@ Avatares
 
 ## JSON Apis
 https://www.jsonapi.co/
+
+## Biblioteca Animación
+- gsap.com
+- motion.dev
+- animejs.com
