@@ -12,6 +12,7 @@
 >
 - Vercel
 - Netlify
+- Infinity Freee (PHP)
 
 ## Imágenes:
 Ransom imagenes
@@ -28,6 +29,10 @@ Avatares
 
 ## JSON Apis
 https://www.jsonapi.co/
+
+https://fakestoreapi.com
+
+https://github.com/public-apis/public-apis
 
 ## Biblioteca Animación
 - gsap.com
